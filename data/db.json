@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": "fo34",
+      "userEmail": "qazax@gmail.com",
+      "password": "şifre123",
+      "basket": []
+    },
+    {
+      "id": "a10q",
+      "userEmail": "azerbaycan124@gmail.com",
+      "password": "aze3211",
+      "basket": [
+        {
+          "id": "jkd4",
+          "name": "Pizza Polo",
+          "url": "pizza-5.jpg",
+          "price": 22.9,
+          "count": 2
+        },
+        {
+          "id": "j34i",
+          "name": "Sea Food Pizza",
+          "url": "pizza-7.jpg",
+          "price": 16,
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "data": {
+    "menu": [
+      {
+        "id": "313m",
+        "name": "Pizza Polo",
+        "url": "pizza-1.jpg",
+        "price": 12.5
+      },
+      {
+        "id": "21j4",
+        "name": "Pizza Margherita - Gobeleki",
+        "url": "pizza-2.jpg",
+        "price": 19
+      },
+      {
+        "id": "k4l3",
+        "name": "Pizza Mix",
+        "url": "pizza-3.jpg",
+        "price": 23.99
+      },
+      {
+        "id": "9rj1",
+        "name": "New York Pizza",
+        "url": "pizza-4.jpg",
+        "price": 17.5
+      },
+      {
+        "id": "jkd4",
+        "name": "Pizza Polo",
+        "url": "pizza-5.jpg",
+        "price": 22.9
+      },
+      {
+        "id": "sl3i",
+        "name": " Oyuncu Pizza",
+        "url": "pizza-6.jpg",
+        "price": 10
+      },
+      {
+        "id": "j34i",
+        "name": "Sea Food Pizza",
+        "url": "pizza-7.jpg",
+        "price": 16
+      },
+      {
+        "id": "jio3",
+        "name": "Pendirli Pizza ",
+        "url": "pizza-8.jpg",
+        "price": 25.5
+      },
+      {
+        "id": "03j2",
+        "name": "Qarisiq Pizza",
+        "url": "pizza-9.jpg",
+        "price": 19.99
+      }
+    ]
+  }
+}
